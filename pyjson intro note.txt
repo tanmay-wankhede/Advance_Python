@@ -1,0 +1,17 @@
+''' JSON hands for Javascript Oject Notation
+looks v similar to a dictionary.
+are key value pairs.
+and as values it can take strings or numbers or booleans
+or nested types or nested array
+
+python to json conversion 
+
+python         json
+dict           object
+list, tuple    array
+str            string
+int,long,float number
+True           true
+False          false
+None           none '''
+
